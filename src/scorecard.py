@@ -1,0 +1,1 @@
+# Vendor scoring script placeholder
